@@ -1,2 +1,18 @@
-# HR-Analytics-Project
-"Data analysis project focused on employee attrition and workforce insights using Excel, SQL, Python, and Tableau. Includes data cleaning, exploratory analysis, dashboard creation, and actionable business recommendations."
+# IBM HR Analytics Project
+
+## Objective
+Analyze employee attrition and identify factors affecting employee retention.
+
+## Tools Used
+- Excel
+- SQL
+- Python
+- Tableau
+
+## Key Insights
+- Overtime employees showed higher attrition.
+- Low job satisfaction increased attrition risk.
+- Income and tenure influenced retention.
+
+## Dashboard Preview
+![Dashboard](Images/dashboard.png)
